@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Usage:
  *  php batch_publish.php msg_count batch_size
